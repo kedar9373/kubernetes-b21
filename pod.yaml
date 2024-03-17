@@ -3,7 +3,7 @@
 # metadata:     #data about object
 # spec:         #configuration of object
 ---
-apiVersion: v1
+apiVersion: apps/v1
 kind: Pod
 metadata:
   name: my-pod
